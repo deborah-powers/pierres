@@ -3,6 +3,7 @@
 .editorconfig
 tsconfig.*
 *.spec.*
+package-lock.json
 /src/index.html
 /src/favicon.ico
 /src/main.ts
